@@ -11,7 +11,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/gvallee/go_exec/pkg/advexec"
+	"github.com/BTMichalowicz/go_exec/pkg/advexec"
 )
 
 // ToEnv returns environment variables specified in 'envVars' that the list of 'modules' sets.
